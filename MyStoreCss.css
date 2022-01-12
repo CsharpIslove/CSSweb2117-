@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #F0E68C;
+  background-position: center;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+}
+.smenu
+{
+  background:#FFD700;
+  text-align: center;
+}
+.smenu ul{
+  display:inline-flex;
+  list-style: none;
+  font-weight: bold;
+
+}
+.smenu ul li{
+  padding: 15px;
+  margin: 15px;
+  width: 120px;
+  font-size: 20px;
+}
+.smenu ul li a{
+  text-decoration: none;
+}
+.logo{
+  position: absolute;
+  margin-left: 40%;
+  top: 5%;
+  margin-top: 5%;
+}
+.logo2{
+  position: absolute;
+  left: 3%;
+  top: 15%;
+}
+.NEW {
+  text-align: right;
+  position: relative;
+}
+.picture {
+  text-align: right;
+}
+.picture2 {
+  text-align: left;
+}
+.picture3 {
+  text-align: left;
+  position: absolute;
+  margin-top: 700px;
+}
+.pervaya{
+  position: absolute;
+text-align: left;
+font-size: 48px;
+top: 40%;
+right: 40%;
+left: 3%;
+}
+.vtoroitext{
+  position: absolute;
+  font-size: 44px;
+  top: 135%;
+  right: 3%;
+  left: 40%;
+  text-align:right;
+}
+.muzh{
+  text-align: right;
+}
+.footer{
+  background-color: white;
+  height: auto;
+  text-align: center;
+  font-size: 20px;
+  position: inherit;
+}
+.tret{
+position: absolute;
+text-align: left;
+font-size: 48px;
+top: 250%;
+right: 40%;
+left: 3%;
+}
+.coloroftext{
+  color: #DA70D6;
+}
+.footer ul{
+  display: inline-flex;
+  list-style: none;
+}
+.footer ul li{
+  padding: 15px;
+  margin: 30px;
+  width: 120px;
+}
+.footer ul li a{
+  text-decoration: none;
+}
+.footer h1{
+  font-size: 60px;
+}
+.footer h2{
+  font-size: 15px;
+}
+.kazpost{
+  position: absolute;
+}
